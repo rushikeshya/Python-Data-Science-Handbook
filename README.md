@@ -45,6 +45,7 @@ For each chapter:
 ## 📌 Author
 
 **Rushikesh Yadav**
+
 Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
 
 ---
